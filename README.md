@@ -29,8 +29,8 @@ It creates random commits spread over the past year — ideal for learning Git, 
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/VishalChavan7/commit-activity-generator.git
+cd commit-activity-generator
 ```
 
 ### 2. Initialize npm & install dependencies
